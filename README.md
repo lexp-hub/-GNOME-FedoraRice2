@@ -25,7 +25,7 @@ Fonts
 Adwaita Mono Nerd Font: Required for rendering all icons and "pill" symbols correctly.
 
 Themes & Styles
-GreyStone / Catppuccin: GTK and Shell themes for a cohesive look.
+Catppuccin: GTK and Shell themes.
 Kitty Theme: Custom Catppuccin-based theme with 0.85 opacity.
-Icon Pack: Tela-circle (Blue) (Recommended for its circular, modern design).
+Icon Pack: GreyStone.
 
