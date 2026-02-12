@@ -1,0 +1,30 @@
+add_newline = false
+format = """
+[](fg:#4480b5)\
+$os\
+$username\
+[](bg:#8ebad9 fg:#4480b5)\
+$directory\
+[](fg:#8ebad9) \
+$character"""
+
+[os]
+disabled = false
+style = "bg:#4480b5 fg:#fdf5e6"
+symbols.Fedora = " "
+
+[username]
+show_always = true
+style_user = "bg:#4480b5 fg:#fdf5e6"
+format = "[$user]($style)"
+
+[directory]
+style = "bg:#8ebad9 fg:#0a2540"
+format = "[ $path ]($style)"
+truncation_length = 3
+fish_style_pwd_dir_length = 1
+
+[character]
+success_symbol = "[➜](bold #8ebad9)"
+error_symbol = "[➜](bold #d97d75)"
+
