@@ -1,5 +1,5 @@
 # -GNOME-Repo
-Git clone https://github.com/lexp-hub/-GNOME-FedoraRice2.git
+Git clone https://github.com/lexp-hub/-GNOME-BetterRice.git
 
 Extensions GNOME:
 Blur my Shell
