@@ -1,6 +1,6 @@
 GNOME-FedoraRice2 - Dotfiles & Configuration
 Installation
-Bash git clone https://github.com/lexp-hub/-GNOME-FedoraRice2.git
+Bash git clone https://github.com/lexp-hub/-GNOME-BetterRice.git
 
 GNOME Extensions
 Blur my Shell: Essential for achieving the frosted glass effect in Kitty.
